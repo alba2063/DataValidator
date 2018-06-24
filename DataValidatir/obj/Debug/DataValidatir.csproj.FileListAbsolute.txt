@@ -1,0 +1,10 @@
+C:\Work\DataValidatir\DataValidatir\bin\Debug\DataValidatir.exe.config
+C:\Work\DataValidatir\DataValidatir\bin\Debug\DataValidatir.exe
+C:\Work\DataValidatir\DataValidatir\bin\Debug\DataValidatir.pdb
+C:\Work\DataValidatir\DataValidatir\obj\Debug\DataValidatir.MainForm.resources
+C:\Work\DataValidatir\DataValidatir\obj\Debug\DataValidatir.Properties.Resources.resources
+C:\Work\DataValidatir\DataValidatir\obj\Debug\DataValidatir.csproj.GenerateResource.Cache
+C:\Work\DataValidatir\DataValidatir\obj\Debug\DataValidatir.csproj.CoreCompileInputs.cache
+C:\Work\DataValidatir\DataValidatir\obj\Debug\DataValidatir.exe
+C:\Work\DataValidatir\DataValidatir\obj\Debug\DataValidatir.pdb
+C:\Work\DataValidatir\DataValidatir\obj\Debug\DataValidatir.csprojResolveAssemblyReference.cache
